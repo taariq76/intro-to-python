@@ -124,3 +124,4 @@ check_that_these_are_equal(
   strip_whitespace(" hello world "), "hello world")
 
 # When you're done, move on to 025_string_concatenation.py
+#Done
